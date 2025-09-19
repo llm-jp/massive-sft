@@ -53,6 +53,8 @@ By measuring the evaluation time of these representative models, we can approxim
 | Yi1.5 (9B)          | 2888          | 11119           | 8693          | 53763           | 1,529,260 (425h)       |
 
 \* For **OLMo (7B)**, LoRA values were estimated from logs since weight merging was not supported (evaluated without VLLM).  
+* Each column value represents the time measured from the start to the completion of the evaluation process for a **single model**.  
+* Since the number of trained models varies across model families, the **total time is not directly comparable under the same conditions**.  
 OOM = Out of Memory.  
 
 ---
