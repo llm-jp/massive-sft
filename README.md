@@ -31,7 +31,7 @@ Therefore, this repository provides an **approximate estimation** instead.
 
 From our experience, evaluation time is largely affected by two factors:
 1. The **model family**, and  
-2. Whether inference uses a **LoRA adapter** or **full parameter tuning**.  
+2. Whether inference uses a **LoRA adapter** or **not**.  
 
 To better estimate this, we conducted additional verification by weight-merging LoRA-tuned and fully tuned models for each model family, thereby constructing representative models under each condition.  
 By measuring the evaluation time of these representative models, we can approximate the expected runtime.
