@@ -2,7 +2,7 @@
 
 ## Details of Evaluation Results
 
-We evaluated over **1,000 models** on downstream tasks using **OpenCompass**, an LLM evaluation tool.  
+We evaluated over **1,000 models** on downstream tasks using [OpenCompass](https://github.com/open-compass/opencompass), an LLM evaluation tool.  
 For details on the datasets and metrics, please refer to our paper.  
 
 This repository provides a crawled and consolidated **dataframe** of the evaluation results.
