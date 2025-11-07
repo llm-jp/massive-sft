@@ -1,5 +1,8 @@
 # massive-sft
 
+## How to Download the SFT Models
+Work in progress. Scheduled for release in November.
+
 ## Details of Evaluation Results
 
 We evaluated over **1,000 models** on downstream tasks using [OpenCompass](https://github.com/open-compass/opencompass), an LLM evaluation tool.  
