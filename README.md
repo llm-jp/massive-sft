@@ -1,7 +1,14 @@
 # massive-sft
 
 ## How to Download the SFT Models
-Work in progress. Scheduled for release in November.
+Please use the following GitLab repository.
+The total size of all models is approximately 80TB, so please be aware of the massive storage requirement.
+[https://gitlab.llm-jp.nii.ac.jp/models/massive-sft
+](https://gitlab.llm-jp.nii.ac.jp/models/massive-sft
+)
+
+Currently, we have released nearly all models, but the 10-epoch training model related to RQ3 in the paper is still in the process of being uploaded.
+Please allow approximately two more weeks until the upload of all models is complete.
 
 ## Details of Evaluation Results
 
